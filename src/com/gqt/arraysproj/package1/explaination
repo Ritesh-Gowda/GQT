@@ -1,0 +1,30 @@
+
+
+
+com        ---->    company
+gqt        ---->    company name
+arraysproj ---->    project name
+package1   ---->    package name
+------------------------------------------
+
+store marks of 26 students
+
+1.conventional approach:
+-------------------------
+int a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+
+
+2.array approach:
+------------------
+arrays in java are treated as objects
+arrays in java will start from 0th position
+
+int [] arr = new int[25];
+arr[0] = first value
+arr[24] = last value
+
+Advantages:
+-----------
+*creation of array is simple
+*storing the data inside the array is simple
+*fetching the data from the array is also simple
